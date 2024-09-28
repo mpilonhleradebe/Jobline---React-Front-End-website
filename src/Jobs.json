@@ -1,0 +1,699 @@
+[
+    {
+      "id": "1",
+      "title": "Software Engineer",
+      "category": "Technology",
+      "type": "Full-Time",
+      "description": "We are looking for a Software Engineer with experience in full-stack development to join our dynamic team in Johannesburg. You will be working on large-scale applications and cutting-edge technologies.",
+      "location": "Johannesburg, Gauteng",
+      "salary": "R600K - R750K",
+      "company": {
+        "name": "TechWorx",
+        "description": "TechWorx is a leading IT company specializing in enterprise software solutions and digital transformation.",
+        "contactEmail": "hr@techworx.co.za",
+        "contactPhone": "011-555-1234"
+      },
+      "icon": "https://img.icons8.com/plasticine/50/motherboard.png"
+    },
+    {
+      "id": "2",
+      "title": "Data Analyst",
+      "category": "Data & Analytics",
+      "type": "Full-Time",
+      "description": "As a Data Analyst, you will be responsible for analyzing and interpreting data to help make informed business decisions. Strong skills in SQL, Excel, and Power BI are required.",
+      "location": "Cape Town, Western Cape",
+      "salary": "R400K - R500K",
+      "company": {
+        "name": "DataHub SA",
+        "description": "DataHub SA is a leader in providing data-driven solutions to various industries across South Africa.",
+        "contactEmail": "jobs@datahubsa.co.za",
+        "contactPhone": "021-444-5678"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Marketing Manager",
+      "category": "Marketing & Communications",
+      "type": "Full-Time",
+      "description": "We are looking for a Marketing Manager with experience in digital marketing, SEO, and brand management. You will lead campaigns to drive customer engagement and growth.",
+      "location": "Durban, KwaZulu-Natal",
+      "salary": "R500K - R600K",
+      "company": {
+        "name": "BrandMasters",
+        "description": "BrandMasters is an award-winning marketing agency specializing in digital transformation and brand strategy.",
+        "contactEmail": "careers@brandmasters.co.za",
+        "contactPhone": "031-222-7890"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Financial Analyst",
+      "category": "Finance",
+      "type": "Full-Time",
+      "description": "We are seeking a Financial Analyst to provide insights and support decision-making processes through financial modeling and analysis.",
+      "location": "Pretoria, Gauteng",
+      "salary": "R450K - R550K",
+      "company": {
+        "name": "FinanceWorks",
+        "description": "FinanceWorks is a fast-growing financial consultancy firm offering services in financial management and advisory.",
+        "contactEmail": "info@financeworks.co.za",
+        "contactPhone": "012-555-7891"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Product Manager",
+      "category": "Product Management",
+      "type": "Full-Time",
+      "description": "As a Product Manager, you will lead the product development lifecycle, from ideation to launch, ensuring customer satisfaction and profitability.",
+      "location": "Johannesburg, Gauteng",
+      "salary": "R700K - R850K",
+      "company": {
+        "name": "InnoTech",
+        "description": "InnoTech is a technology company that focuses on developing innovative products for businesses across various sectors.",
+        "contactEmail": "careers@innotech.co.za",
+        "contactPhone": "011-666-2345"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Customer Support Specialist",
+      "category": "Customer Service",
+      "type": "Full-Time",
+      "description": "We are looking for a Customer Support Specialist to assist clients with inquiries and provide solutions to technical problems.",
+      "location": "Port Elizabeth, Eastern Cape",
+      "salary": "R250K - R350K",
+      "company": {
+        "name": "SupportPro",
+        "description": "SupportPro is dedicated to providing top-tier customer service solutions to businesses across multiple industries.",
+        "contactEmail": "jobs@supportpro.co.za",
+        "contactPhone": "041-333-4567"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Mechanical Engineer",
+      "category": "Engineering",
+      "type": "Full-Time",
+      "description": "We are seeking a skilled Mechanical Engineer to work on large industrial projects involving design, testing, and maintenance of mechanical systems.",
+      "location": "Johannesburg, Gauteng",
+      "salary": "R500K - R650K",
+      "company": {
+        "name": "MechBuild SA",
+        "description": "MechBuild SA is a leading engineering firm focused on delivering innovative solutions in mechanical engineering.",
+        "contactEmail": "careers@mechbuild.co.za",
+        "contactPhone": "011-777-5432"
+      }
+    },
+    {
+      "id": "8",
+      "title": "UX/UI Designer",
+      "category": "Design",
+      "type": "Full-Time",
+      "description": "As a UX/UI Designer, you will create engaging user interfaces for web and mobile platforms, focusing on customer experience and interaction.",
+      "location": "Cape Town, Western Cape",
+      "salary": "R400K - R550K",
+      "company": {
+        "name": "Designly",
+        "description": "Designly is a creative agency specializing in user experience and interface design for global brands.",
+        "contactEmail": "design@designly.co.za",
+        "contactPhone": "021-555-9876"
+      }
+    },
+    {
+      "id": "9",
+      "title": "IT Support Technician",
+      "category": "Technology",
+      "type": "Full-Time",
+      "description": "We are looking for an IT Support Technician to provide day-to-day support for our company's IT infrastructure, troubleshooting issues and managing system updates.",
+      "location": "Johannesburg, Gauteng",
+      "salary": "R300K - R400K",
+      "company": {
+        "name": "TechLink Solutions",
+        "description": "TechLink Solutions provides comprehensive IT support services for businesses in South Africa.",
+        "contactEmail": "jobs@techlink.co.za",
+        "contactPhone": "011-555-8765"
+      },
+      "icon": "https://img.icons8.com/plasticine/50/motherboard.png"
+    },
+    {
+      "id": "10",
+      "title": "Project Manager",
+      "category": "Project Management",
+      "type": "Full-Time",
+      "description": "The Project Manager will oversee multiple projects from start to finish, ensuring timelines and budgets are adhered to.",
+      "location": "Durban, KwaZulu-Natal",
+      "salary": "R600K - R750K",
+      "company": {
+        "name": "PM Associates",
+        "description": "PM Associates is a project management consultancy firm working with clients in construction, IT, and engineering.",
+        "contactEmail": "info@pmassociates.co.za",
+        "contactPhone": "031-777-9876"
+      }
+    },
+    {
+      "id": "11",
+      "title": "HR Business Partner",
+      "category": "Human Resources",
+      "type": "Full-Time",
+      "description": "We are seeking an HR Business Partner to provide support in recruitment, employee relations, and performance management.",
+      "location": "Cape Town, Western Cape",
+      "salary": "R400K - R500K",
+      "company": {
+        "name": "PeopleFirst",
+        "description": "PeopleFirst is a human resources consultancy firm providing recruitment and employee management services.",
+        "contactEmail": "jobs@peoplefirst.co.za",
+        "contactPhone": "021-666-1234"
+      }
+    },
+    {
+      "id": "12",
+      "title": "Social Media Manager",
+      "category": "Marketing & Communications",
+      "type": "Full-Time",
+      "description": "We are looking for a Social Media Manager to manage our company's social media platforms and drive online engagement through content creation.",
+      "location": "Johannesburg, Gauteng",
+      "salary": "R350K - R450K",
+      "company": {
+        "name": "ConnectDigital",
+        "description": "ConnectDigital is a digital marketing agency focused on social media management and online branding for clients across various industries.",
+        "contactEmail": "jobs@connectdigital.co.za",
+        "contactPhone": "011-444-5678"
+      }
+    },
+    {
+      "id": "13",
+      "title": "Supply Chain Analyst",
+      "category": "Logistics & Supply Chain",
+      "type": "Full-Time",
+      "description": "We are seeking a Supply Chain Analyst to optimize our supply chain processes through data analysis and operational improvements.",
+      "location": "Cape Town, Western Cape",
+      "salary": "R450K - R600K",
+      "company": {
+        "name": "LogiPro SA",
+        "description": "LogiPro SA is a logistics company providing end-to-end supply chain solutions to clients across South Africa.",
+        "contactEmail": "info@logipro.co.za",
+        "contactPhone": "021-333-8901"
+      }
+    },
+    {
+      "id": "14",
+      "title": "Civil Engineer",
+      "category": "Engineering",
+      "type": "Full-Time",
+      "description": "As a Civil Engineer, you will be responsible for designing, planning, and supervising construction projects.",
+      "location": "Durban, KwaZulu-Natal",
+      "salary": "R550K - R700K",
+      "company": {
+        "name": "CiviTek",
+        "description": "CiviTek is a civil engineering firm specializing in infrastructure projects, including roads, bridges, and public facilities.",
+        "contactEmail": "careers@civitek.co.za",
+        "contactPhone": "031-888-2345"
+      }
+    },
+    {
+      "id": "15",
+      "title": "Customer Success Manager",
+      "category": "Customer Service",
+      "type": "Full-Time",
+      "description": "We are looking for a Customer Success Manager to build strong relationships with our clients and ensure their satisfaction with our products and services.",
+      "location": "Johannesburg, Gauteng",
+      "salary": "R500K - R650K",
+      "company": {
+        "name": "ClientCare SA",
+        "description": "ClientCare SA is a leading customer service consultancy focused on helping businesses improve their customer experience.",
+        "contactEmail": "careers@clientcare.co.za",
+        "contactPhone": "011-666-7890"
+      }
+    },
+    {
+        "id": "16",
+        "title": "Full-Stack Developer",
+        "category": "Technology",
+        "type": "Full-Time",
+        "description": "Join our team as a Full-Stack Developer, where you'll build and maintain web applications using modern frameworks like React and Node.js.",
+        "location": "Johannesburg, Gauteng",
+        "salary": "R650K - R750K",
+        "company": {
+          "name": "DevSolutions",
+          "description": "DevSolutions provides cutting-edge software development services for global clients.",
+          "contactEmail": "jobs@devsolutions.co.za",
+          "contactPhone": "011-123-4567"
+        },
+        "icon": "https://img.icons8.com/plasticine/50/motherboard.png"
+      },
+      {
+        "id": "17",
+        "title": "BI Analyst",
+        "category": "Data & Analytics",
+        "type": "Full-Time",
+        "description": "We are looking for a Business Intelligence (BI) Analyst to create and manage BI and analytics solutions that turn data into knowledge.",
+        "location": "Cape Town, Western Cape",
+        "salary": "R550K - R700K",
+        "company": {
+          "name": "InsightData",
+          "description": "InsightData is an innovative analytics company specializing in BI and data solutions.",
+          "contactEmail": "careers@insightdata.co.za",
+          "contactPhone": "021-789-1234"
+        }
+      },
+      {
+        "id": "18",
+        "title": "Digital Marketing Specialist",
+        "category": "Marketing & Communications",
+        "type": "Full-Time",
+        "description": "As a Digital Marketing Specialist, you will design and execute marketing strategies to promote our brand across digital channels.",
+        "location": "Durban, KwaZulu-Natal",
+        "salary": "R400K - R550K",
+        "company": {
+          "name": "AdPro SA",
+          "description": "AdPro SA is a leading digital marketing agency providing comprehensive advertising solutions.",
+          "contactEmail": "jobs@adprosa.co.za",
+          "contactPhone": "031-567-3456"
+        }
+      },
+      {
+        "id": "19",
+        "title": "Tax Consultant",
+        "category": "Finance",
+        "type": "Full-Time",
+        "description": "We are seeking a Tax Consultant with experience in corporate tax laws to provide advisory services to our clients.",
+        "location": "Pretoria, Gauteng",
+        "salary": "R450K - R550K",
+        "company": {
+          "name": "TaxCorp",
+          "description": "TaxCorp is a top financial services company specializing in tax advisory and consulting.",
+          "contactEmail": "hr@taxcorp.co.za",
+          "contactPhone": "012-555-8901"
+        }
+      },
+      {
+        "id": "20",
+        "title": "Junior Product Manager",
+        "category": "Product Management",
+        "type": "Full-Time",
+        "description": "We are looking for a Junior Product Manager to help manage the product lifecycle and work closely with cross-functional teams.",
+        "location": "Johannesburg, Gauteng",
+        "salary": "R450K - R550K",
+        "company": {
+          "name": "ProdTech",
+          "description": "ProdTech is a product development company that works on innovative solutions for various industries.",
+          "contactEmail": "careers@prodtech.co.za",
+          "contactPhone": "011-222-9876"
+        }
+      },
+      {
+        "id": "21",
+        "title": "Customer Service Representative",
+        "category": "Customer Service",
+        "type": "Full-Time",
+        "description": "We are seeking a Customer Service Representative to provide excellent service to our customers and assist with inquiries and issues.",
+        "location": "Johannesburg, Gauteng",
+        "salary": "R220K - R300K",
+        "company": {
+          "name": "SupportX",
+          "description": "SupportX provides customer service solutions across South Africa.",
+          "contactEmail": "jobs@supportx.co.za",
+          "contactPhone": "011-654-7890"
+        }
+      },
+      {
+        "id": "22",
+        "title": "Electrical Engineer",
+        "category": "Engineering",
+        "type": "Full-Time",
+        "description": "Join our team as an Electrical Engineer responsible for designing, developing, and maintaining electrical systems in large-scale projects.",
+        "location": "Johannesburg, Gauteng",
+        "salary": "R500K - R650K",
+        "company": {
+          "name": "ElecTech",
+          "description": "ElecTech is a leading electrical engineering firm working on projects across various industries.",
+          "contactEmail": "careers@electech.co.za",
+          "contactPhone": "011-777-5433"
+        }
+      },
+      {
+        "id": "23",
+        "title": "Graphic Designer",
+        "category": "Design",
+        "type": "Full-Time",
+        "description": "We are looking for a Graphic Designer to create visually appealing designs for both digital and print media.",
+        "location": "Cape Town, Western Cape",
+        "salary": "R350K - R450K",
+        "company": {
+          "name": "CreativeVision",
+          "description": "CreativeVision is a creative agency that provides design solutions for leading brands.",
+          "contactEmail": "jobs@creativevision.co.za",
+          "contactPhone": "021-444-7890"
+        }
+      },
+      {
+        "id": "24",
+        "title": "Scrum Master",
+        "category": "Project Management",
+        "type": "Full-Time",
+        "description": "We are looking for an experienced Scrum Master to guide and coach Agile teams to ensure successful project delivery.",
+        "location": "Durban, KwaZulu-Natal",
+        "salary": "R650K - R800K",
+        "company": {
+          "name": "AgileWorks",
+          "description": "AgileWorks is a project management firm specializing in Agile methodologies for tech projects.",
+          "contactEmail": "careers@agileworks.co.za",
+          "contactPhone": "031-666-1234"
+        }
+      },
+      {
+        "id": "25",
+        "title": "HR Specialist",
+        "category": "Human Resources",
+        "type": "Full-Time",
+        "description": "We are seeking an HR Specialist to oversee recruitment, training, and employee relations.",
+        "location": "Cape Town, Western Cape",
+        "salary": "R350K - R450K",
+        "company": {
+          "name": "TalentCorp",
+          "description": "TalentCorp is an HR consultancy firm specializing in talent acquisition and development.",
+          "contactEmail": "jobs@talentcorp.co.za",
+          "contactPhone": "021-555-8901"
+        }
+      },
+      {
+        "id": "26",
+        "title": "Cloud Solutions Architect",
+        "category": "Technology",
+        "type": "Full-Time",
+        "description": "As a Cloud Solutions Architect, you will design and implement cloud-based solutions for enterprise clients.",
+        "location": "Johannesburg, Gauteng",
+        "salary": "R800K - R950K",
+        "company": {
+          "name": "CloudPro SA",
+          "description": "CloudPro SA is a cloud consulting company specializing in cloud architecture and solutions.",
+          "contactEmail": "jobs@cloudprosa.co.za",
+          "contactPhone": "011-555-7654"
+        },
+        "icon": "https://img.icons8.com/plasticine/50/motherboard.png"
+      },
+      {
+        "id": "27",
+        "title": "Data Scientist",
+        "category": "Data & Analytics",
+        "type": "Full-Time",
+        "description": "We are looking for a Data Scientist to analyze large datasets and develop predictive models using machine learning.",
+        "location": "Cape Town, Western Cape",
+        "salary": "R700K - R850K",
+        "company": {
+          "name": "AI Solutions",
+          "description": "AI Solutions is an innovative company offering data science and AI-driven solutions.",
+          "contactEmail": "jobs@aisolutions.co.za",
+          "contactPhone": "021-456-7890"
+        }
+      },
+      {
+        "id": "28",
+        "title": "PR Manager",
+        "category": "Marketing & Communications",
+        "type": "Full-Time",
+        "description": "We are seeking a Public Relations (PR) Manager to manage our company's public image and media relations.",
+        "location": "Durban, KwaZulu-Natal",
+        "salary": "R500K - R600K",
+        "company": {
+          "name": "MediaConnect",
+          "description": "MediaConnect is a communications agency offering PR and media services to global clients.",
+          "contactEmail": "jobs@mediaconnect.co.za",
+          "contactPhone": "031-444-5678"
+        }
+      },
+      {
+        "id": "29",
+        "title": "Financial Accountant",
+        "category": "Finance",
+        "type": "Full-Time",
+        "description": "We are seeking a qualified Financial Accountant to oversee the accounting process, financial reporting, and audits.",
+        "location": "Pretoria, Gauteng",
+        "salary": "R600K - R700K",
+        "company": {
+          "name": "Accura",
+          "description": "Accura is a financial services firm that provides accounting and auditing services to businesses.",
+          "contactEmail": "jobs@accura.co.za",
+          "contactPhone": "012-456-7890"
+        }
+      },
+      {
+        "id": "30",
+        "title": "Senior Product Manager",
+        "category": "Product Management",
+        "type": "Full-Time",
+        "description": "We are looking for a Senior Product Manager to lead the product development process and manage product launches.",
+        "location": "Johannesburg, Gauteng",
+        "salary": "R750K - R900K",
+        "company": {
+          "name": "ProdLead",
+          "description": "ProdLead is a product management firm working with innovative tech companies to bring products to market.",
+          "contactEmail": "jobs@prodlead.co.za",
+          "contactPhone": "011-222-4567"
+        }
+      },
+      {
+        "id": "31",
+        "title": "Customer Support Analyst",
+        "category": "Customer Service",
+        "type": "Full-Time",
+        "description": "We are looking for a Customer Support Analyst to provide technical support and customer assistance via phone and email.",
+        "location": "Cape Town, Western Cape",
+        "salary": "R350K - R450K",
+        "company": {
+          "name": "TechAssist",
+          "description": "TechAssist provides technical support services to businesses in the technology sector.",
+          "contactEmail": "jobs@techassist.co.za",
+          "contactPhone": "021-555-7654"
+        }
+      },
+      {
+        "id": "32",
+        "title": "Mechanical Engineer",
+        "category": "Engineering",
+        "type": "Full-Time",
+        "description": "We are looking for a Mechanical Engineer to design and develop mechanical systems for industrial applications.",
+        "location": "Pretoria, Gauteng",
+        "salary": "R550K - R700K",
+        "company": {
+          "name": "MechSolutions",
+          "description": "MechSolutions provides engineering services for mechanical and industrial projects.",
+          "contactEmail": "jobs@mechsolutions.co.za",
+          "contactPhone": "012-333-4567"
+        }
+      },
+      {
+        "id": "33",
+        "title": "UI/UX Designer",
+        "category": "Design",
+        "type": "Full-Time",
+        "description": "We are seeking a UI/UX Designer to design user interfaces and enhance the user experience for web and mobile applications.",
+        "location": "Durban, KwaZulu-Natal",
+        "salary": "R400K - R550K",
+        "company": {
+          "name": "UXCreatives",
+          "description": "UXCreatives is a design agency focused on delivering intuitive and user-friendly design solutions.",
+          "contactEmail": "jobs@uxcreatives.co.za",
+          "contactPhone": "031-333-1234"
+        }
+      },
+      {
+        "id": "34",
+        "title": "IT Project Manager",
+        "category": "Project Management",
+        "type": "Full-Time",
+        "description": "We are looking for an experienced IT Project Manager to oversee the planning, execution, and delivery of IT projects.",
+        "location": "Cape Town, Western Cape",
+        "salary": "R700K - R850K",
+        "company": {
+          "name": "TechWorks",
+          "description": "TechWorks is an IT project management consultancy that works with businesses to manage complex technology projects.",
+          "contactEmail": "careers@techworks.co.za",
+          "contactPhone": "021-777-4321"
+        }
+      },
+      {
+        "id": "35",
+        "title": "Talent Acquisition Manager",
+        "category": "Human Resources",
+        "type": "Full-Time",
+        "description": "We are seeking a Talent Acquisition Manager to lead recruitment efforts and source top talent for our organization.",
+        "location": "Johannesburg, Gauteng",
+        "salary": "R500K - R650K",
+        "company": {
+          "name": "HireTop",
+          "description": "HireTop is a recruitment firm specializing in helping businesses find skilled professionals across various industries.",
+          "contactEmail": "jobs@hiretop.co.za",
+          "contactPhone": "011-333-5678"
+        }
+    },
+    {
+        "id": "36",
+        "title": "Financial Analyst",
+        "category": "Finance",
+        "type": "Full-Time",
+        "description": "We are looking for a Financial Analyst to provide financial analysis and reporting for business decision-making.",
+        "location": "Pretoria, Gauteng",
+        "salary": "R450K - R600K",
+        "company": {
+          "name": "FinServe",
+          "description": "FinServe offers financial services and consultancy to help businesses manage their finances.",
+          "contactEmail": "jobs@finserve.co.za",
+          "contactPhone": "012-555-8888"
+        }
+      },
+      {
+        "id": "37",
+        "title": "Business Development Executive",
+        "category": "Marketing & Communications",
+        "type": "Full-Time",
+        "description": "We are seeking a Business Development Executive to expand our market presence and grow our client base.",
+        "location": "Durban, KwaZulu-Natal",
+        "salary": "R600K - R750K",
+        "company": {
+          "name": "BizExpand",
+          "description": "BizExpand is a marketing agency helping businesses grow through innovative marketing strategies.",
+          "contactEmail": "jobs@bizexpand.co.za",
+          "contactPhone": "031-222-6543"
+        }
+      },
+      {
+        "id": "38",
+        "title": "DevOps Engineer",
+        "category": "Technology",
+        "type": "Full-Time",
+        "description": "We are looking for a DevOps Engineer to manage infrastructure, automation, and continuous integration pipelines.",
+        "location": "Cape Town, Western Cape",
+        "salary": "R700K - R900K",
+        "company": {
+          "name": "CloudWorks",
+          "description": "CloudWorks is a cloud solutions provider offering DevOps and cloud infrastructure services to tech companies.",
+          "contactEmail": "careers@cloudworks.co.za",
+          "contactPhone": "021-987-4321"
+        }
+      },
+      {
+        "id": "39",
+        "title": "Lead Data Scientist",
+        "category": "Data & Analytics",
+        "type": "Full-Time",
+        "description": "We are seeking a Lead Data Scientist to lead data-driven projects, build models, and deliver insights to support business decisions.",
+        "location": "Johannesburg, Gauteng",
+        "salary": "R900K - R1.1M",
+        "company": {
+          "name": "DataVision",
+          "description": "DataVision is a data science consultancy providing analytics and AI solutions to clients in various industries.",
+          "contactEmail": "jobs@datavision.co.za",
+          "contactPhone": "011-789-6543"
+        }
+      },
+      {
+        "id": "40",
+        "title": "Marketing Coordinator",
+        "category": "Marketing & Communications",
+        "type": "Full-Time",
+        "description": "We are looking for a Marketing Coordinator to assist with marketing campaigns, content creation, and brand management.",
+        "location": "Pretoria, Gauteng",
+        "salary": "R300K - R400K",
+        "company": {
+          "name": "MarketCo",
+          "description": "MarketCo is a marketing agency that specializes in creating and managing digital marketing campaigns for businesses.",
+          "contactEmail": "jobs@marketco.co.za",
+          "contactPhone": "012-333-8889"
+        }
+      },
+      {
+        "id": "41",
+        "title": "Operations Manager",
+        "category": "Project Management",
+        "type": "Full-Time",
+        "description": "We are seeking an Operations Manager to oversee day-to-day operations, ensure quality control, and manage staff.",
+        "location": "Durban, KwaZulu-Natal",
+        "salary": "R750K - R900K",
+        "company": {
+          "name": "OpsTeam",
+          "description": "OpsTeam offers operations management services for businesses, improving efficiency and ensuring smooth workflows.",
+          "contactEmail": "jobs@opsteam.co.za",
+          "contactPhone": "031-456-1234"
+        }
+      },
+      {
+        "id": "42",
+        "title": "Mobile App Developer",
+        "category": "Technology",
+        "type": "Full-Time",
+        "description": "We are looking for a Mobile App Developer to build and maintain iOS and Android apps for our clients.",
+        "location": "Johannesburg, Gauteng",
+        "salary": "R500K - R650K",
+        "company": {
+          "name": "AppDev Studio",
+          "description": "AppDev Studio is a mobile app development firm creating cutting-edge apps for startups and enterprises.",
+          "contactEmail": "jobs@appdevstudio.co.za",
+          "contactPhone": "011-555-5678"
+        },
+        "icon": "https://img.icons8.com/plasticine/50/motherboard.png"
+      },
+      {
+        "id": "43",
+        "title": "Customer Success Manager",
+        "category": "Customer Service",
+        "type": "Full-Time",
+        "description": "We are seeking a Customer Success Manager to manage client relationships, ensure customer satisfaction, and drive retention.",
+        "location": "Cape Town, Western Cape",
+        "salary": "R450K - R600K",
+        "company": {
+          "name": "ClientCare",
+          "description": "ClientCare offers customer relationship management services to tech companies, ensuring clients achieve their desired outcomes.",
+          "contactEmail": "jobs@clientcare.co.za",
+          "contactPhone": "021-765-4321"
+        }
+      },
+      {
+        "id": "44",
+        "title": "Senior Backend Developer",
+        "category": "Technology",
+        "type": "Full-Time",
+        "description": "We are looking for a Senior Backend Developer to develop and maintain server-side logic, database management, and API integration.",
+        "location": "Pretoria, Gauteng",
+        "salary": "R700K - R850K",
+        "company": {
+          "name": "Backend Solutions",
+          "description": "Backend Solutions is a software development firm specializing in backend architecture and server management.",
+          "contactEmail": "jobs@backendsolutions.co.za",
+          "contactPhone": "012-444-5678"
+        },
+        "icon": "https://img.icons8.com/plasticine/50/motherboard.png"
+      },
+      {
+        "id": "45",
+        "title": "Creative Director",
+        "category": "Design",
+        "type": "Full-Time",
+        "description": "We are seeking a Creative Director to lead the design team and oversee the creative process for client projects.",
+        "location": "Johannesburg, Gauteng",
+        "salary": "R900K - R1.1M",
+        "company": {
+          "name": "CreativeEdge",
+          "description": "CreativeEdge is a creative agency delivering top-tier branding, design, and marketing solutions.",
+          "contactEmail": "jobs@creativeedge.co.za",
+          "contactPhone": "011-444-8888"
+        }
+      },
+      {
+        "id": "46",
+        "title": "Junior SQL Developer",
+        "category": "Technology",
+        "type": "Full-Time",
+        "description": "We are looking for a Junior SQL Developer to write SQL queries, develop databases, and support data analytics.",
+        "location": "Durban, KwaZulu-Natal",
+        "salary": "R300K - R450K",
+        "company": {
+          "name": "DataTech",
+          "description": "DataTech provides data-driven solutions for businesses, specializing in data warehousing and SQL development.",
+          "contactEmail": "jobs@datatech.co.za",
+          "contactPhone": "031-789-1234"
+        },
+        "icon": "https://img.icons8.com/plasticine/50/motherboard.png"
+      }
+  ]
